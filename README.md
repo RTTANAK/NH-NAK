@@ -1,9 +1,4 @@
-##  NH-NAK
-
-[![Website](https://img.shields.io/badge/🌐_Reach_Me-tanak--tools.vercel.app-000000?style=flat-square)](https://ratanak-tools.vercel.app)
-[![Telegram](https://img.shields.io/badge/📱_Reach_Me-@nhnak-26A5E4?style=flat-square)](https://t.me/nhnak)
-
----
+## 💻 NH-NAK
 
 **Frontend**
 
@@ -30,3 +25,10 @@
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+---
+
+## 📬 Reach Me
+
+[![TanakTools](https://img.shields.io/badge/🛠️_RaTanakTools-tanak--tools.vercel.app-000000?style=flat-square)](https://ratanak-tools.vercel.app)
+[![Telegram](https://img.shields.io/badge/📱_Telegram-@nhnak-26A5E4?style=flat-square)](https://t.me/nhnak)
