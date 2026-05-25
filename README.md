@@ -28,7 +28,7 @@
 
 ---
 
-## 📬 Reach Me
+## 📬 Join
 
 - 🌐 Website: [ratanak-tools.vercel.app](https://ratanak-tools.vercel.app)
 - 💬 Telegram: [t.me/nhnak](https://t.me/nhnak)
